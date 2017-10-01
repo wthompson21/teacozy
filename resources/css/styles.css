@@ -4,6 +4,7 @@ body {
   color: seashell;
   background-color: black;
   text-align: center;
+  margin: 0;
 }
 
 header {
@@ -59,20 +60,20 @@ a {
   background-color: black;
 }
 
-#featuredtea {
+#featuredTea {
   width: 1000px;
   height: 700px;
   margin: auto;
   padding: 70px 0;
 }
 
-#featuredtea .items {
+#featuredTea .items {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-#featuredtea .item {
+#featuredTea .item {
   display: block;
   padding: 5px;
 }
